@@ -1,0 +1,28 @@
+.search-bar {
+    border: 5px solid lightsalmon;
+    border-radius: 15px;
+    padding: 10px;
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    align-content: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    color: green;
+    background-color: beige;
+}
+
+.search-bar form {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin-left: 40%;
+    text-align: center;  
+}
+
+body {
+    background-color: antiquewhite;
+}
